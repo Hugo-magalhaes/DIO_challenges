@@ -19,4 +19,4 @@ Criar um sistema bancário no qual pode-se criar um usuário, este usuário cria
 - ``Laços de repetição``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Hugo-magalhaes/DIO_challenges/blob/main/sistema_bancario/desafio_sistema_bancario.py).
