@@ -1,3 +1,8 @@
 .mypy_cache
 .vscode
 venv
+MongoDB_project/.env
+MongoDB_project/Extract/__pycache__
+MongoDB_project/Transform/__pycache__
+MongoDB_project/Load/__pycache__
+data_transformation_with_python_mysql_mongodb-main
